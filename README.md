@@ -1,4 +1,4 @@
-# Quick and dirty script to rank Aplhafold ouput files based on model confidence
+# Quick and dirty script to rank Aplhafold output files based on model confidence
 
 ## Usage
 ```shell
